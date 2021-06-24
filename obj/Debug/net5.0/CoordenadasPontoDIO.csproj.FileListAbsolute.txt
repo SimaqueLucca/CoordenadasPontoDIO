@@ -1,0 +1,16 @@
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\bin\Debug\net5.0\CoordenadasPontoDIO.exe
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\bin\Debug\net5.0\CoordenadasPontoDIO.deps.json
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\bin\Debug\net5.0\CoordenadasPontoDIO.runtimeconfig.json
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\bin\Debug\net5.0\CoordenadasPontoDIO.runtimeconfig.dev.json
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\bin\Debug\net5.0\CoordenadasPontoDIO.dll
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\bin\Debug\net5.0\ref\CoordenadasPontoDIO.dll
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\bin\Debug\net5.0\CoordenadasPontoDIO.pdb
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\obj\Debug\net5.0\CoordenadasPontoDIO.csprojAssemblyReference.cache
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\obj\Debug\net5.0\CoordenadasPontoDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\obj\Debug\net5.0\CoordenadasPontoDIO.AssemblyInfoInputs.cache
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\obj\Debug\net5.0\CoordenadasPontoDIO.AssemblyInfo.cs
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\obj\Debug\net5.0\CoordenadasPontoDIO.csproj.CoreCompileInputs.cache
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\obj\Debug\net5.0\CoordenadasPontoDIO.dll
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\obj\Debug\net5.0\ref\CoordenadasPontoDIO.dll
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\obj\Debug\net5.0\CoordenadasPontoDIO.pdb
+C:\Users\luca.souza\Desktop\CoordenadasPontoDIO\obj\Debug\net5.0\CoordenadasPontoDIO.genruntimeconfig.cache
